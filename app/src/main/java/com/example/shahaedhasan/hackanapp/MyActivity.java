@@ -63,11 +63,11 @@ public class MyActivity extends AppCompatActivity {
 
     }
 
-    //public Class DisplayMessageActivity{
+    public Class DisplayMessageActivity{
 
 
 
 
 
-    //}
+    }
 }
